@@ -1,6 +1,7 @@
 # SMS-BOMBER
 ```
 rm -rf SMS-BOMBER
-git clone https://github.com/AKASH-CYBER-196/SMS-BOMBER.git
+git clone https://github.com/MR-CODE-143/SMS-BOMBER.git
 cd SMS-BOMBER
-python AKASH.py
+chmod +x AWM
+./AWM
